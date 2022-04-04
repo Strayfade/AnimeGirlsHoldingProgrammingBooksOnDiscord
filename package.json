@@ -1,0 +1,16 @@
+{
+  "name": "discordimagebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Strayfade",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "request-promise": "^4.2.6"
+  }
+}
