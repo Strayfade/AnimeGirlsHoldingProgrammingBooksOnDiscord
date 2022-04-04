@@ -8,7 +8,7 @@ Pre-setup: Fill out your `.env` file with the two variables `TOKEN` and `GITHUBK
 3. `node index.js`
 
 ### Example:
-<img style="width: 400px;" src="https://cdn.discordapp.com/attachments/696445614438744124/960663981792591952/ExampleImage.png">
+<img style="width: 400px;" src="https://cdn.discordapp.com/attachments/696445614438744124/960667147699355698/ExampleImage.png">
 
 ### Credit
 This project accesses assets from the image-only repository [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
