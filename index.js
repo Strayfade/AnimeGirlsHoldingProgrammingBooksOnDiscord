@@ -40,7 +40,7 @@ Client.on('messageCreate', (message) => {
             var Results = JSON.parse(html);
             var Selection = Math.floor(Math.random() * Results.length) - 1;
             console.log(Results[Selection].path)
-            message.channel.send("https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/" + Results[Selection].path)
+            message.channel.send(Results[Selection].download_url)
         })
     }
 })
